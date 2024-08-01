@@ -1,0 +1,50 @@
+[{
+  "_id": "6103a1ef731b6a001a4b76b9",
+  "name": "64GB",
+  "price": 699
+},
+{
+  "_id": "6103a1ef731b6a001a4b76ba",
+  "name": "128GB",
+  "price": 799
+},
+{
+  "_id": "6103a1ef731b6a001a4b76bb",
+  "name": "256GB",
+  "price": 899
+},
+{
+  "_id": "6103a1ef731b6a001a4b76bc",
+  "name": "Sofa Set",
+  "price": 499
+},
+{
+  "_id": "6103a1ef731b6a001a4b76bd",
+  "name": "Dining Table",
+  "price": 299
+},
+{
+  "_id": "6103a1ef731b6a001a4b76be",
+  "name": "512GB",
+  "price": 999
+},
+{
+  "_id": "6103a1ef731b6a001a4b76bf",
+  "name": "32GB",
+  "price": 599
+},
+{
+  "_id": "6103a1ef731b6a001a4b76c0",
+  "name": "TV Stand",
+  "price": 199
+},
+{
+  "_id": "6103a1ef731b6a001a4b76c1",
+  "name": "Fridge",
+  "price": 1200
+},
+{
+  "_id": "6103a1ef731b6a001a4b76c2",
+  "name": "Washing Machine",
+  "price": 800
+}]

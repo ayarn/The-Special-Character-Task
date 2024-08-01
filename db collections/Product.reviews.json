@@ -1,0 +1,25 @@
+[{
+  "_id": "6103a1ef731b6a001a4b76b6",
+  "rating": 5,
+  "comment": "Excellent product!"
+},
+{
+  "_id": "6103a1ef731b6a001a4b76b7",
+  "rating": 4,
+  "comment": "Very good, but could be improved."
+},
+{
+  "_id": "6103a1ef731b6a001a4b76b8",
+  "rating": 3,
+  "comment": "Average product."
+},
+{
+  "_id": "6103a1ef731b6a001a4b76b9",
+  "rating": 2,
+  "comment": "Not great, needs improvements."
+},
+{
+  "_id": "6103a1ef731b6a001a4b76ba",
+  "rating": 1,
+  "comment": "Poor quality, not recommended."
+}]
